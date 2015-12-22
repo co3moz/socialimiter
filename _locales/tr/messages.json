@@ -1,0 +1,41 @@
+{
+  "seconds": {
+    "message": " saniye "
+  },
+  "minutes": {
+    "message": " dakika "
+  },
+  "hours": {
+    "message": " saat "
+  },
+  "days": {
+    "message": " gün "
+  },
+  "months": {
+    "message": " ay "
+  },
+  "left": {
+    "message": "kaldı"
+  },
+  "nomore": {
+    "message": "Nope! Bugün daha fazla %% yok :("
+  },
+  "title": {
+    "message": "Socialimiter Ayarları"
+  },
+  "allowedTime": {
+    "message": "Günlük izin verilen süre (saniye)"
+  },
+  "save": {
+    "message": "Ayarları Kaydet"
+  },
+  "resetSites": {
+    "message": "Her şeyi sıfırla"
+  },
+  "tooBig": {
+    "message": "Bir günden daha fazla olamaz.."
+  },
+  "tooSmall": {
+    "message": "Bir dakikadan daha kısa olamaz.."
+  }
+}

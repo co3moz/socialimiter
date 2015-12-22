@@ -1,0 +1,41 @@
+{
+  "seconds": {
+    "message": " seconds "
+  },
+  "minutes": {
+    "message": " minutes "
+  },
+  "hours": {
+    "message": " hours "
+  },
+  "days": {
+    "message": " days "
+  },
+  "months": {
+    "message": " months "
+  },
+  "left": {
+    "message": "left"
+  },
+  "nomore": {
+    "message": "Nope! No more %% today for you :("
+  },
+  "title": {
+    "message": "Socialimiter Options"
+  },
+  "allowedTime": {
+    "message": "Allowed time for a day (second)"
+  },
+  "save": {
+    "message": "Save Settings"
+  },
+  "resetSites": {
+    "message": "Reset Everything"
+  },
+  "tooBig": {
+    "message": "Cannot longer then a day.."
+  },
+  "tooSmall": {
+    "message": "Cannot shorter then a minute.."
+  }
+}
