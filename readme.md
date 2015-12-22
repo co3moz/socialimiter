@@ -34,19 +34,23 @@ Screenshots
 ---------------
 
 facebook timer running
-![img1](images/onfacebook.png)
+
+![img1](images/onfb.png)
 
 -----------
 
 twitter timer running
-![img2](images/ontwitter.png)
+
+![img2](images/ontw.png)
 
 -----------
 
 there is no time to spent, nope screen
+
 ![img3](images/onnope.png)
 
 ----------
 
 settings screen
+
 ![img3](images/onsettings.png)
