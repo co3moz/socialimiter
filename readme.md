@@ -2,6 +2,8 @@
 
 Chrome extension that limits social network. You allowed some time to use. If you use all your time then, you can't use network anymore. You need to wait 12pm
 
+You can download it from [chrome web store](https://chrome.google.com/webstore/detail/socialimiter/ooiolpeekfcgicfhjdpnbkfbmnealpbo)
+
 Features
 --------------
 
