@@ -20,7 +20,7 @@ You can easily change your time spent. If you want to spent only 10 minutes per 
 * **Clear everything**
 If you want to reset remaining time, you can do that but please stop using that button :(
 
-* *Multi-Language Support**
+* **Multi-Language Support**
 We support English and Turkish. But all code designed to support more. Thanks `chrome.i18n`
 
 * **No dependency**
