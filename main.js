@@ -1,5 +1,5 @@
 !function () {
-  var check = ["facebook.com", "twitter.com"].find(function (e) {
+  var check = ["facebook.com", "twitter.com","instagram.com"].find(function (e) {
     return new RegExp(e).test(location.hostname);
   });
 
